@@ -101,7 +101,7 @@ Completed hands-on training in AI & Machine Learning with practical exposure to 
 **Tech Used:** HTML | CSS | JavaScript  
 🔗 Live Demo Available
 
-![Portfolio Screenshot](assets/portfolio_img.png)
+![Portfolio Screenshot](assests/portfolio_img.png)
 
 ---
 
@@ -112,7 +112,7 @@ Completed hands-on training in AI & Machine Learning with practical exposure to 
 **Tech Used:** Python | Machine Learning | Content-Based Filtering  
 🔗 Live Demo Available
 
-![Book Recommender Screenshot](assets/book_rec.png)
+![Book Recommender Screenshot](assests/book_rec.png)
 
 ---
 
@@ -123,7 +123,7 @@ Completed hands-on training in AI & Machine Learning with practical exposure to 
 **Tech Used:** Power BI | Advanced Excel | Kaggle  
 🔗 Live Demo Available
 
-![Dashboard Screenshot](assets/Dashboard1.png)
+![Dashboard Screenshot](assests/Dashboard1.png)
 
 ---
 
